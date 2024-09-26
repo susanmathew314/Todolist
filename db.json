@@ -1,0 +1,24 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Buy groceries",
+      "completed": false
+    },
+    {
+      "id": 2,
+      "title": "Walk the dog",
+      "completed": true
+    },
+    {
+      "id": 1727225063890,
+      "title": "welcome message",
+      "completed": false
+    },
+    {
+      "id": 1727225324559,
+      "title": "cooking",
+      "completed": false
+    }
+  ]
+}
